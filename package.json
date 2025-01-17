@@ -1,0 +1,27 @@
+{
+  "name": "iaaa",
+  "version": "0.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "author": "lmssee <lmssee@outlook.com>  (https://lmssee.com)",
+  "homepage": "https://lmssee.com/iaaa",
+  "license": "ISC",
+  "description": "iaaa",
+  "files": [
+    "index.js"
+  ],
+  "bugs": {
+    "url": "https://github.com/lmssee/iaaa/issues"
+  },
+  "keywords": [
+    "iaaa"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lmssee/iaaa.git"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  }
+}
