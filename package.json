@@ -1,24 +1,23 @@
 {
-  "name": "iaaa",
+  "name": "type-of-js",
   "version": "0.0.0",
   "main": "index.js",
-  "scripts": {},
   "author": "lmssee <lmssee@outlook.com>  (https://lmssee.com)",
-  "homepage": "https://lmssee.com/iaaa",
+  "homepage": "https://earthnut.dev/vue",
   "license": "ISC",
-  "description": "iaaa",
+  "description": "email to earthnut.dev@outlook.com",
   "files": [
     "index.js"
   ],
   "bugs": {
-    "url": "https://github.com/lmssee/iaaa/issues"
+    "url": "https://github.com/lmssee/npm-earthnut-vue/issues"
   },
   "keywords": [
-    "iaaa"
+    "earthnut"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lmssee/iaaa.git"
+    "url": "git+https://github.com/lmssee/npm-earthnut-vue.git"
   },
   "publishConfig": {
     "access": "public",
